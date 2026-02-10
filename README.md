@@ -8,8 +8,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 
 <p align="left">
 <a href="https://github.com/kyparum">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyparum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
