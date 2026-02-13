@@ -20,7 +20,7 @@
 
 ### 💫 About Me
 
-* 🔭 **Sedang fokus belajar**: Web Development, Data Analysis, UI/UX Design, & AI Engineering.
+* 🔭 **Sedang fokus belajar**: Web Development, Data Analysis, UI/UX Design, AI Engineer.
 * 🎓 **Pendidikan**: Universitas Tiga Serangkai.
 * 🎯 **Goals**: Menjadi seorang Developer profesional yang bermanfaat bagi masyarakat.
 * ⚡ **Fun Fact**: Selalu semangat belajar hal baru 
