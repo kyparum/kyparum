@@ -44,7 +44,5 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
-  <br />
   <sub>Pusing itu wajar, yang penting jangan menyerah. Semangat koding! 💻✨</sub>
 </div>
