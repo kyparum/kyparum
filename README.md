@@ -9,11 +9,7 @@
   <p align="center">
     <strong>Tech Enthusiast | Lifelong Learner</strong>
   </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/okkypuspaningrum/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/kyparum?igsh=MTF4aGJ5bWxuMHR3Zw%3D%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  </p>
+ 
 </div>
 
 ---
@@ -21,7 +17,6 @@
 ### 💫 About Me
 
 * 🔭 **Sedang fokus belajar**: Web Development, Data Analysis, UI/UX Design, AI Engineer.
-* 🎓 **Pendidikan**: Universitas Tiga Serangkai.
 * 🎯 **Goals**: Menjadi seorang Developer profesional yang bermanfaat bagi masyarakat.
 * ⚡ **Fun Fact**: Selalu semangat belajar hal baru 
 
